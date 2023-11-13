@@ -1,0 +1,87 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        .card {
+            background-color: white;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            margin: 16px;
+            padding: 16px;
+        }
+
+        .card img {
+            width: 100%;
+            height: auto;
+        }
+
+        .card h2 {
+            color: #4CAF50;
+        }
+
+        .card p {
+            text-align: justify;
+        }
+
+        .card a {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 16px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Nutrição: Uma Profissão Essencial</h1>
+    <div class="container">
+        <div class="card">
+            <img src="nutricao.jpg" alt="Nutrição">
+            <h2>O que é a nutrição?</h2>
+            <p>A nutrição é a ciência que estuda os alimentos e os nutrientes que eles contêm, bem como a forma como o nosso organismo os utiliza para manter e promover a saúde. A nutrição também abrange os aspectos sociais, culturais, econômicos e ambientais que influenciam as escolhas alimentares das pessoas e das populações.</p>
+            <a href="saiba-mais.html">Saiba mais</a>
+        </div>
+        <div class="card">
+            <img src="nutricionista.jpg" alt="Nutricionista">
+            <h2>O que faz um nutricionista?</h2>
+            <p>Um nutricionista é um profissional da saúde que aplica os conhecimentos da nutrição na prática, visando prevenir, tratar e melhorar a qualidade de vida das pessoas. Ele pode atuar em diversas áreas, como:</p>
+            <ul>
+                <li>Nutrição clínica: avalia e prescreve dietas para pacientes com diferentes condições de saúde, como diabetes, obesidade, alergias, entre outras;</li>
+                <li>Nutrição esportiva: orienta e acompanha atletas e praticantes de atividade física, buscando otimizar o seu desempenho e recuperação;</li>
+                <li>Nutrição social: planeja e executa programas de alimentação e nutrição para coletividades, como escolas, hospitais, empresas, entre outras;</li>
+                <li>Nutrição em saúde pública: desenvolve e participa de políticas e ações de promoção da saúde e segurança alimentar, como vigilância sanitária, educação nutricional, entre outras;</li>
+                <li>Nutrição em gastronomia: elabora e avalia cardápios, receitas e produtos alimentícios, considerando os aspectos nutricionais, sensoriais e tecnológicos;</li>
+                <li>Nutrição em pesquisa: realiza e divulga estudos científicos sobre temas relacionados à alimentação e nutrição, contribuindo para o avanço do conhecimento na área.</li>
+            </ul>
+            <a href="conheca-nossos-servicos.html">Conheça nossos serviços</a>
+        </div>
+        <div class="card">
+            <img src="beneficios.jpg" alt="Benefícios">
+            <h2>Quais são os benefícios de consultar um nutricionista?</h2>
+            <p>Consultar um nutricionista pode trazer vários benefícios para a sua saúde e bem-estar, tais como:</p>
+            <ul>
+                <li>Melhorar a qualidade da sua alimentação, evitando deficiências ou excessos de nutrientes;</li>
+                <li>Prevenir ou tratar doenças relacionadas à alimentação, como diabetes, hipertensão, obesidade, colesterol alto, entre outras;</li>
+                <li>Aumentar a sua energia, disposição e imunidade;</li>
+                <li>Controlar o seu peso de forma saudável e sustentável;</li>
+                <li>Melhorar o seu desempenho físico e mental;</li>
+                <li>Contribuir para a sua autoestima e qualidade de vida.</li>
+            </ul>
+            <a href="agende-uma-consulta.html">Agende uma consulta</a>
+        </div>
+    </div>
+</body>
+</html>
